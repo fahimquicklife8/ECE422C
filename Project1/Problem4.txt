@@ -1,0 +1,14 @@
+
+Name: Fahim Imtiaz(fmi89)
+Section: 17630
+
+What do you expect (and like) to learn in this class?
+
+I want to learn new language and get better in classes and objects
+
+If we have time at the end of the
+semester to go through additional topics related to software engineering, Java or object-oriented programming,
+what would you like us cover? Please write your answers in a text file and include it in your zip file.
+
+I don't think I will survive until the end of the class because its already so hard, but if we do. I would want to know about IOS 
+as well as Android 
